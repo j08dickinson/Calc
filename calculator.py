@@ -1,7 +1,7 @@
 import math
 
 def calc(x,y):
-    result = int(x) + int(y)
+    result = int(x) * int(y)
     return result
     
 if __name__ == '__main__':
